@@ -1,7 +1,7 @@
 ﻿//git diff
 import java.io.*;
 import java.util.*;
-
+//git diff
 public class Main2 {
     public static void main(String[] args){
         Scanner in = new Scanner(System.in);

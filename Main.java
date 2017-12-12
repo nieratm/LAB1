@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-
+//git diff
 public class Main2 {
     public static void main(String[] args){
         String REGEX = "\\b[^a-z]+";

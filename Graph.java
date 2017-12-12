@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.util.Random;
 import java.util.Scanner;
 import java.util.Arrays;
-
+//git diff
 public class Graph {
     public String[] VexsList;       // 顶点集合
     private int[][] EdgeList;    // 邻接矩阵
